@@ -25,4 +25,7 @@ yarn-error.log
 # Misc
 .env
 .tmp/
-*.log 
+*.log
+
+# Project specific
+progress.md 
