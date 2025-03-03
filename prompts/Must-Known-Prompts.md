@@ -1,0 +1,1 @@
+@workspace I need a well-organized file/folder structure recommendation for my project. Please ask me a series of yes/no questions to better understand the project’s purpose, scope, and requirements, so you can provide a tailored and optimal structure. Let’s start with the questions!
