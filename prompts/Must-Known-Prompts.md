@@ -69,7 +69,7 @@ This project could involve software development, creative work, data analysis, o
 Let’s start with the yes/no questions!
 
 ```
-# 6
+# 6 (yes / no Q)
 ```markdown
 # @workspace
 
@@ -101,3 +101,8 @@ This project likely involves a TypeScript-based application, possibly a web or b
 Let’s start with the explanation of different DB connection strategies!
 
 ```
+
+# 7 (Pros and Cons)
+
+what are a few different ways that i can implement this db connection logic. give me the pros and cons of each strategy. #file:db.ts
+
