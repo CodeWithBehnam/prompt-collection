@@ -40,7 +40,32 @@ Avoid overly complex structures that might confuse users, while maintaining flex
 Let’s start with the yes/no questions!
 
 # 5 
+# @workspace
 
+## Purpose
+I need a highly organized, scalable, and efficient file/folder structure for my project to optimize workflow, collaboration, and long-term maintainability.
+
+## Instructions
+Please ask me a series of yes/no questions to gather detailed information about the project. Use these responses to recommend a tailored file/folder structure that meets my specific needs. Begin with the first question immediately after my response.
+
+## Context
+This project could involve software development, creative work, data analysis, or another domain—I’ll provide details through your questions. It may involve a team, specific tools (e.g., version control, design software), or unique file types, and I want the structure to support current needs as well as future growth.
+
+## Variables
+- Project type (e.g., software, design, research, etc.)  
+- Team size (solo, small team, large team)  
+- Technical tools or platforms used (e.g., Git, Figma, Python, etc.)  
+- File types involved (e.g., code, documents, images, videos)  
+- Collaboration needs (e.g., shared access, version control)  
+- Project scale (small, medium, large) or duration (short-term, long-term)  
+
+## Considerations
+- Ensure the structure is intuitive and easy to navigate for all team members or stakeholders.  
+- Account for potential scalability if the project grows or evolves.  
+- Consider integration with existing tools or workflows (e.g., cloud storage, IDEs).  
+- Avoid overly complex structures that might confuse users, while maintaining flexibility for future additions.  
+
+Let’s start with the yes/no questions!
 
 
 
