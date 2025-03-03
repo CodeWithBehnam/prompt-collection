@@ -40,7 +40,7 @@ Avoid overly complex structures that might confuse users, while maintaining flex
 Let’s start with the yes/no questions!
 
 # 5 
-'''markdown
+```markdown
 # @workspace
 
 ## Purpose
@@ -68,5 +68,5 @@ This project could involve software development, creative work, data analysis, o
 
 Let’s start with the yes/no questions!
 
-'''
+```
 
