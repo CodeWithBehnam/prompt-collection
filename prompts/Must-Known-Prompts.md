@@ -69,4 +69,35 @@ This project could involve software development, creative work, data analysis, o
 Let’s start with the yes/no questions!
 
 ```
+# 6
+```markdown
+# @workspace
 
+## Purpose
+I need to understand and implement effective database (DB) connection logic for my project, ensuring reliability, performance, and maintainability, with a focus on the `file:db.ts` file.
+
+## Instructions
+Please provide a detailed explanation of a few different strategies I can use to implement this DB connection logic. For each strategy, include the pros and cons, and ensure the response is tailored to a TypeScript environment (as indicated by `file:db.ts`). If you need more specific details about my project or DB setup, ask yes/no questions to refine your recommendations. Start with your explanation now.
+
+## Context
+This project likely involves a TypeScript-based application, possibly a web or backend system, where database connectivity is critical. The `file:db.ts` suggests a focus on TypeScript-specific implementation, potentially using a database like PostgreSQL, MySQL, MongoDB, or SQLite. I may be working on a new feature, optimizing existing code, or building a scalable system, and I want strategies that balance simplicity, scalability, and performance.
+
+## Variables
+- Type of database (e.g., relational like PostgreSQL/MySQL, NoSQL like MongoDB, or file-based like SQLite)  
+- Application type (e.g., web, mobile, backend API, etc.)  
+- Scale of the application (small, medium, large)  
+- Current tools or frameworks used (e.g., Node.js, Express, Prisma, TypeORM, etc.)  
+- Connection pooling or single-connection needs  
+- Security or performance requirements (e.g., authentication, query optimization)  
+
+## Considerations
+- Ensure the strategies are compatible with TypeScript and maintain type safety.  
+- Account for scalability if the application grows or handles more traffic.  
+- Consider performance implications, such as connection overhead or latency.  
+- Address security concerns, like preventing SQL injection or managing credentials.  
+- Avoid overly complex solutions if the project is small or simple, while ensuring flexibility for future expansion.  
+- Provide practical code examples or pseudocode for each strategy, if applicable.
+
+Let’s start with the explanation of different DB connection strategies!
+
+```
